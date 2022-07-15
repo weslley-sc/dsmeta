@@ -1,4 +1,4 @@
-package config;
+package com.weslley.dsmeta.config;
 
 import java.util.Arrays;
 

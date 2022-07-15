@@ -1,4 +1,4 @@
-package entities;
+package com.weslley.dsmeta.entities;
 
 
 import javax.persistence.*;
