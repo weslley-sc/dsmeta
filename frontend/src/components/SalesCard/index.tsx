@@ -73,7 +73,7 @@ function SalesCard() {
                                     <td>
                                         <div className="dsmeta-red-btn-container">
                                             <div className="dsmeta-red-btn">
-                                                <NotificationButton />                    </div>
+                                                <NotificationButton saleId={sale.id}/>                    </div>
                                         </div>
                                     </td>
                                 </tr>
